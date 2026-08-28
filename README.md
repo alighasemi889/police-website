@@ -5,8 +5,12 @@
 وب‌سایت مدرن و واکنش‌گرای فرماندهی انتظامی (پلیس) به زبان فارسی با چینش راست‌به‌چپ (RTL).
 
 </div>
-
+### Desktop
 <img width="1905" height="790" alt="police" src="https://github.com/user-attachments/assets/f0d1bfbb-f5ba-4fb4-9274-15ffdb9f0547" />
+
+
+### Mobile
+<img width="295" height="382" alt="mobile_wal" src="https://github.com/user-attachments/assets/003e9b84-3fab-412f-a337-e77ec48ec698" />
 
 A modern, responsive **Persian (Farsi) law enforcement (police) website** with full RTL layout, built with **React**, **TypeScript**, and **Tailwind CSS**. Designed with a focus on secure, professional, and trustworthy UI.
 
