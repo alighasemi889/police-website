@@ -46,8 +46,8 @@ export default function Navbar() {
         scrolled
           ? 'bg-white/90 dark:bg-slate-950/90 backdrop-blur-lg shadow-sm border-b border-slate-200 dark:border-slate-800'
           : 'bg-white dark:bg-slate-950 border-b border-transparent'
-      }`
-    >
+       }`}
+>
       <nav className="section-container flex h-16 items-center justify-between gap-4">
         <Logo />
 
